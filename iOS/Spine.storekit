@@ -1,0 +1,29 @@
+{
+  "identifier" : "spine",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "2.99",
+      "familyShareable" : false,
+      "internalID" : "spine_pro_unlock",
+      "localizations" : [
+        {
+          "description" : "Unlocks unlimited shelved items",
+          "displayName" : "Spine Pro",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "spine_pro_unlock",
+      "referenceName" : "Spine Pro Unlock",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+    "_askToBuyEnabled" : false
+  },
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
